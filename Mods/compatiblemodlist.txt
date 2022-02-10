@@ -1,0 +1,13 @@
+Mods running without significant issues so far in ST-Nucleus:
+
+Bruma SE (Skyrim Beyond) 
+Enhanced Lights & FX
+Hearthfire MultiKid
+Immersive Armors
+Immersive Citizens - AI Overhaul
+Arcanum Magic
+Apocalypse Magic (possible wild edits)
+
+Significant crashing issues with Sindora's Hidden Hearth mod
+- possibly due to AI/Lighting incompatibility/exceptions
+
