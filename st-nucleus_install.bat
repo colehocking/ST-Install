@@ -1,0 +1,1 @@
+REM Automate Installation config
