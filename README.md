@@ -32,7 +32,7 @@ Skyrim Together: Nucleus Co-op Installation
     - select number of skyrim instances to run (same as # of players; 2-4 supported)
     - Hit "Play"
     - Wait for Nucleus to auto setup screen re-sizing (takes a minute or 2)
-- If you get a missing libcrypto error, dl is here --> [libcrypto-1_1-x64.dll](https://cdn.discordapp.com/attachments/247838017002143746/775133629163634708/libcrypto-1_1-x64.dll)
+- If you get a missing libcrypto error, dl is here --> [libcrypto-1_1-x64.dll](https://cdn.discordapp.com/attachments/247838017002143746/775133629163634708/libcrypto-1_1-x64.dll) & in "Install" folder
 - Connect Instances Together
     - With a mouse & keyboard, select a skyrim instance with Alt+Tab (Do this first, and use this exact key combo; EVEN though you are likely already focused on an instance window; it allows for keyboard input to be accepted through Nucleus)
     - Press Right CTRL and use the mouse to select "Connect" in the popup window
