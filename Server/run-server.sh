@@ -7,6 +7,5 @@
 
 TOKEN="login_token_here"
 
-
 # Run the docker instance; install via docker-install-ubuntu.sh
-sudo docker run -p 10578:10578/udp titledphoques/st-game-server -premium -token "${TOKEN}"
+sudo docker run -d -p 10578:10578/udp titledphoques/st-game-server -premium -token "${TOKEN}"
