@@ -9,7 +9,7 @@
 - [The Elder Scrolls V: Skyrim, Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/) on PC
 
 ## Installation
-- Install Skyrim: Special Edition via Steam.
+- Install Skyrim: Special Edition via Steam Client.
 - Create 2+ character save files in game.
     - Selecting "New Game" will crash a Nucleus instance, so boot SkyrimSE from either Steam or Harbor and create the save file first.
     - Ideally run the characters through the laborius intro scene in-game; it can cause hiccups with online syncing.
