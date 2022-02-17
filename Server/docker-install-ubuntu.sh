@@ -17,6 +17,6 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 # Download the ST Game Server
-sudo docker pull titledphoques/st-game-server
+sudo docker pull tiltedphoques/st-game-server
 
 
