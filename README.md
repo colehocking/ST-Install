@@ -11,7 +11,7 @@
 ## Installation
 - Install Skyrim: Special Edition via Steam Client.
 - Create 2+ character save files in game.
-    - Selecting "New Game" will crash a Nucleus instance, so boot SkyrimSE from either Steam or Harbor and create the save file first.
+    - Selecting "New Game" will crash a Nucleus instance, so boot SkyrimSE from Harbor first and create the save file(s).
     - Ideally run the characters through the laborius intro scene in-game; it can cause hiccups with online syncing.
 - Locate the SkyrimSE.exe directory 
     - typically C:\SteamLibrary\steamapps\common\Skyrim Special Edition\ 
