@@ -43,4 +43,8 @@
     - Right CTRL again to exit menu
     - Alt-Tab to the other instance(s) and do the same
 - Voila!
-    
+
+
+## Sunday Network Beta (02/20/22)
+- Join the [Discord](https://discord.gg/Q4vzWaAz)!
+
